@@ -76,14 +76,14 @@ Investigación de productos con rentabilidad negativa
 
 . Se realizó una investigación adicional considerando:
 
--Región
--Estado
--Ciudad
--Segmento
--Cliente
--Precio unitario
--Cantidad vendida
--Devoluciones
+. Región
+. Estado
+. Ciudad
+. Segmento
+. Cliente
+. Precio unitario
+. Cantidad vendida
+. Devoluciones
 
 . Los resultados sugieren que el problema podría estar relacionado con la política de precios, descuentos o la estructura de costos.
 
