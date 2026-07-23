@@ -26,19 +26,28 @@ Elaborar un informe ejecutivo con recomendaciones de negocio.
 ### 🛠 Herramientas utilizadas
 
 #### Microsoft Excel
-Tablas Dinámicas
-Gráficos Dinámicos
-Segmentadores de datos
-Columnas calculadas
-Formato condicional
+-Tablas Dinámicas
+
+-Gráficos Dinámicos
+
+-Segmentadores de datos
+
+-Columnas calculadas
+
+-Formato condicional
 
 #### SQL SERVER
-SELECT
-WHERE
-GROUP BY
-ORDER BY
-INNER JOIN
-Funciones de agregación
+-SELECT
+
+-WHERE
+
+-GROUP BY
+
+-ORDER BY
+
+-INNER JOIN
+
+-Funciones de agregación
 
 ### 📈 KPIs analizados
 
