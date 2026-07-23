@@ -23,6 +23,10 @@ Construir un Dashboard Ejecutivo.
 Construir un Dashboard Comercial.
 Elaborar un informe ejecutivo con recomendaciones de negocio.
 
+### Tecnologías Utilizadas
+. SQL Server
+. Microsoft Excel
+
 ### 🛠 Herramientas utilizadas
 
 Microsoft Excel
@@ -101,6 +105,34 @@ A partir de los hallazgos obtenidos se proponen las siguientes acciones:
 . Priorizar el seguimiento de los productos con pérdidas.
 . Realizar un análisis financiero más profundo incorporando costos y promociones.
 
+### Análisis realizados con SQL Server
+
+Durante la etapa de SQL Server se realizaron consultas para responder preguntas de negocio, entre ellas:
+
+Cálculo de KPIs generales.
+
+Ventas y rentabilidad por categoría.
+
+Ventas y rentabilidad por subcategoría.
+
+Productos con mayor y menor rentabilidad.
+
+Top clientes por ventas.
+
+Regiones con mayor profit.
+
+Investigación de productos con rentabilidad negativa.
+
+Análisis por región, estado, ciudad y cliente para identificar posibles causas de las pérdidas.
+
+### Conceptos de SQL aplicados
+.SELECT
+.WHERE
+.GROUP BY
+.ORDER BY
+.INNER JOIN
+.Funciones de agregación
+
 ### 📷 Dashboards desarrollados
 
 Durante el proyecto se construyeron dos dashboards diferentes, orientados a distintos perfiles de usuarios.
@@ -164,5 +196,3 @@ Este proyecto no se limita a mostrar dashboards.
 Una vez identificados los productos y subcategorías con pérdidas, se realizó una investigación para comprender el origen del problema analizando diferentes dimensiones del negocio, como regiones, estados, ciudades, segmentos, clientes, métodos de pago y devoluciones.
 
 A partir de ese análisis se formularon hipótesis y recomendaciones dirigidas a las áreas de Ventas y Finanzas, simulando el trabajo que realizaría un Analista de Datos dentro de una empresa.
-
-### Proximamente un análisis de ventas y rentabilidad en SQL Server.
