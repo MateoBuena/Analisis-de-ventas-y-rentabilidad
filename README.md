@@ -24,8 +24,8 @@ Construir un Dashboard Comercial.
 Elaborar un informe ejecutivo con recomendaciones de negocio.
 
 ### Tecnologías Utilizadas
-. SQL Server
-. Microsoft Excel
+#### SQL Server
+#### Microsoft Excel
 
 ### 🛠 Herramientas utilizadas
 
