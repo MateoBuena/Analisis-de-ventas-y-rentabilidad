@@ -23,18 +23,22 @@ Construir un Dashboard Ejecutivo.
 Construir un Dashboard Comercial.
 Elaborar un informe ejecutivo con recomendaciones de negocio.
 
-### Tecnologías Utilizadas
-#### SQL Server
-#### Microsoft Excel
-
 ### 🛠 Herramientas utilizadas
 
-Microsoft Excel
+#### Microsoft Excel
 Tablas Dinámicas
 Gráficos Dinámicos
 Segmentadores de datos
 Columnas calculadas
 Formato condicional
+
+#### SQL SERVER
+SELECT
+WHERE
+GROUP BY
+ORDER BY
+INNER JOIN
+Funciones de agregación
 
 ### 📈 KPIs analizados
 
