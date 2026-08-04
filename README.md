@@ -49,6 +49,14 @@ Elaborar un informe ejecutivo con recomendaciones de negocio.
 
 -Funciones de agregación
 
+### Python
+
+. Pandas
+. Seaborn
+. Matplotlib
+. Análisis Exploratorio de Datos (EDA)
+. Pyobdc
+
 ### 📈 KPIs analizados
 
 Ventas Totales
@@ -145,6 +153,21 @@ Análisis por región, estado, ciudad y cliente para identificar posibles causas
 .ORDER BY
 .INNER JOIN
 .Funciones de agregación
+
+### Análisis realizados con Python
+
+Utilizando Python y Pandas se automatizó el análisis de los datos almacenados en SQL Server para responder las principales preguntas de negocio.
+
+Entre los análisis realizados se encuentran:
+
+Obtención de KPIs generales.
+Ventas por categoría y subcategoría.
+Profit por región.
+Top clientes.
+Top productos.
+Productos con rentabilidad negativa.
+Investigación de productos con pérdidas mediante consultas SQL ejecutadas desde Python.
+Visualización de resultados mediante gráficos.
 
 ### 📷 Dashboards desarrollados
 
