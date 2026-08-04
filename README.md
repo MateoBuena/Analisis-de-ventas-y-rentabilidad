@@ -152,10 +152,15 @@ Análisis por región, estado, ciudad y cliente para identificar posibles causas
 
 ### Conceptos de SQL aplicados
 .SELECT
+
 .WHERE
+
 .GROUP BY
+
 .ORDER BY
+
 .INNER JOIN
+
 .Funciones de agregación
 
 ### Análisis realizados con Python
@@ -164,14 +169,21 @@ Utilizando Python y Pandas se automatizó el análisis de los datos almacenados 
 
 Entre los análisis realizados se encuentran:
 
-Obtención de KPIs generales.
-Ventas por categoría y subcategoría.
-Profit por región.
-Top clientes.
-Top productos.
-Productos con rentabilidad negativa.
-Investigación de productos con pérdidas mediante consultas SQL ejecutadas desde Python.
-Visualización de resultados mediante gráficos.
+. Obtención de KPIs generales.
+
+. Ventas por categoría y subcategoría.
+
+. Profit por región.
+
+. Top clientes.
+
+. Top productos.
+
+. Productos con rentabilidad negativa.
+
+. Investigación de productos con pérdidas mediante consultas SQL ejecutadas desde Python.
+
+. Visualización de resultados mediante gráficos.
 
 ### 📷 Dashboards desarrollados
 
@@ -184,12 +196,19 @@ Pensado para la dirección de la empresa.
 Incluye indicadores generales como:
 
 . Ventas Totales
+
 . Profit Total
+
 . Margen
+
 . Pedidos
+
 . Clientes
+
 . Evolución temporal
+
 . Profit por categoría
+
 . Profit por región
 
 #### Dashboard Comercial
@@ -199,10 +218,15 @@ Pensado para el área comercial.
 Incluye información como:
 
 . Top productos por ventas
+
 . Top clientes
+
 . Ventas por segmento
+
 . Profit por región
+
 . Top estados por profit
+
 . Productos con rentabilidad negativa
 
 ### 📄 Informe Ejecutivo
@@ -210,8 +234,11 @@ Incluye información como:
 Se elaboró un informe ejecutivo donde se resumen:
 
 . Hallazgos principales
+
 . Conclusiones
+
 . Recomendaciones
+
 . Limitaciones del análisis
 
 ### 🚀 Habilidades demostradas
@@ -219,14 +246,23 @@ Se elaboró un informe ejecutivo donde se resumen:
 Este proyecto permitió desarrollar y aplicar conocimientos relacionados con:
 
 . Análisis Exploratorio de Datos (EDA)
+
 . Visualización de Datos
+
 . Diseño de KPIs
+
 . Diseño de Dashboards
+
 . Business Intelligence
+
 . Storytelling con datos
+
 . Análisis de rentabilidad
+
 . Pensamiento analítico
+
 . Comunicación de resultados
+
 . Toma de decisiones basada en datos
 
 ### ⭐ ¿Qué hace diferente a este proyecto?
