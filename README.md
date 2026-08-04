@@ -51,11 +51,15 @@ Elaborar un informe ejecutivo con recomendaciones de negocio.
 
 ### Python
 
-. Pandas
-. Seaborn
-. Matplotlib
-. Análisis Exploratorio de Datos (EDA)
-. Pyobdc
+- Pandas
+
+- Seaborn
+
+- Matplotlib
+
+- Análisis Exploratorio de Datos (EDA)
+
+- Pyobdc
 
 ### 📈 KPIs analizados
 
